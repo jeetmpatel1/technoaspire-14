@@ -15,7 +15,7 @@ Technoaspire is an anuual technical festival of Vishwawkarma Government Engineer
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-   [technoaspire-website]: <http://technoaspire.com>
+   [technoaspire-website]: <https://jeetmpatel1.github.io/technoaspire-15>
    [facebook page]: <https://www.facebook.com/TechnoAspirevgec/>
    [git-repo-url]: <https://github.com/jeetmpatel1/technoaspire-15.git>
    [Jeet Patel]: <https://www.linkedin.com/in/jeetmpatel1/>
